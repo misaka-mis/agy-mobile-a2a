@@ -1,0 +1,5 @@
+{
+  "name": "agy-mobile-a2a",
+  "version": "1.0.0",
+  "description": "Universal bidirectional A2A (Agent-to-Agent) plugin connecting Desktop Antigravity and Android (Termux + Ubuntu) Antigravity over Tailscale with zero VPN conflicts."
+}

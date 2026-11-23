@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+.env
+bridge_token.txt
+config.json
+scripts/bridge_token.txt
+scripts/config.json
